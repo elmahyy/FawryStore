@@ -1,7 +1,7 @@
 name=Chips,price=10.0,quantity=5,expiry=2023-12-31,weight=0.5
-name=Water,price=25.0,quantity=14,expiry=N/A,weight=0.2
-name=Milk,price=15.0,quantity=0,expiry=2025-07-02,weight=0.2
-name=Bread,price=12.0,quantity=1,expiry=2025-07-15,weight=0.6
-name=Juice,price=18.0,quantity=12,expiry=2025-08-01,weight=0.2
-name=Apple Gift Card,price=20.0,quantity=25,expiry=N/A,weight=0
+name=Water,price=25.0,quantity=2,expiry=N/A,weight=0.2
+name=Milk,price=15.0,quantity=1,expiry=2025-07-02,weight=0.2
+name=Bread,price=12.0,quantity=4,expiry=2025-07-15,weight=0.6
+name=Juice,price=18.0,quantity=3,expiry=2025-08-01,weight=0.2
+name=Apple Gift Card,price=20.0,quantity=9,expiry=N/A,weight=0
 name=Samsung Tv,price=4000.0,quantity=1,expiry=N/A,weight=24.0
