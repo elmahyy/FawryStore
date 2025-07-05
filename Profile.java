@@ -15,7 +15,7 @@ public class Profile {
         while (true) {
         System.out.println("Profile");
         System.out.println("User: Ahmed Elmahy");
-        System.out.println("Balance: £" + balance);
+        System.out.println("Balance: £" + utils.getBalance());
         System.out.println("Address: New Cairo, Egypt");
         System.out.println("-----------");
         System.out.println("1. Change Balance");
