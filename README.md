@@ -1,11 +1,5 @@
 ## FawryShop Demo-Projet
 
-## Details
-
-Fullname: Ahmed Elmahyy  
-Phone: (+20)1111404422  
-CV: https://drive.google.com/file/d/1jsigNGg6sJQDGt-c8CehXSZ_0cK15gmr/view?usp=sharing  
-
 ## Start Project
 
 ```bash
